@@ -6,11 +6,11 @@ Sprite:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Deck Of Cards_52
+  m_Name: K_Hearts
   m_Rect:
     serializedVersion: 2
-    x: 0
-    y: 15
+    x: 828
+    y: 217
     width: 69
     height: 101
   m_Offset: {x: 0, y: 0}
@@ -22,7 +22,7 @@ Sprite:
   m_AtlasName: 
   m_PackingTag: 
   m_RenderDataKey:
-    cc92174244fdc4e4da6c147eeed6385c: 1510986267
+    cc92174244fdc4e4da6c147eeed6385c: -1455082367
   m_AtlasTags: []
   m_SpriteAtlas: {fileID: 0}
   m_RD:
@@ -107,14 +107,14 @@ Sprite:
     m_Bindpose: []
     textureRect:
       serializedVersion: 2
-      x: 0
-      y: 15
+      x: 828
+      y: 217
       width: 69
       height: 101
     textureRectOffset: {x: 0, y: 0}
     atlasRectOffset: {x: -1, y: -1}
     settingsRaw: 64
-    uvTransform: {x: 100, y: 34.5, z: 100, w: 65.5}
+    uvTransform: {x: 100, y: 862.5, z: 100, w: 267.5}
     downscaleMultiplier: 1
   m_AtlasRD:
     serializedVersion: 3
@@ -198,14 +198,14 @@ Sprite:
     m_Bindpose: []
     textureRect:
       serializedVersion: 2
-      x: 0
-      y: 15
+      x: 828
+      y: 217
       width: 69
       height: 101
     textureRectOffset: {x: 0, y: 0}
     atlasRectOffset: {x: -1, y: -1}
     settingsRaw: 64
-    uvTransform: {x: 100, y: 34.5, z: 100, w: 65.5}
+    uvTransform: {x: 100, y: 862.5, z: 100, w: 267.5}
     downscaleMultiplier: 1
   m_PhysicsShape:
   - - {x: -0.345, y: 0.505}
@@ -213,4 +213,4 @@ Sprite:
     - {x: 0.345, y: -0.505}
     - {x: 0.345, y: 0.505}
   m_Bones: []
-  m_SpriteID: afbb238120ff1084d8e5ca732ce59ced
+  m_SpriteID: 7cd3779c5962c7e47a64170ccd0cea5d
