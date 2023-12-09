@@ -13,7 +13,6 @@ public class PlayerCardTracker : MonoBehaviour
         // Assuming cards have been dealt already by CardDealer script
         // You can call this function when you need to update the player's card information
         UpdatePlayerCards();
-        ShowPlayerCards();
     }
 
     // Add a card to the player's card list
@@ -35,13 +34,5 @@ public class PlayerCardTracker : MonoBehaviour
         }
     }
 
-    // Display player's cards in the console (you can modify this based on your UI or game logic)
-    void ShowPlayerCards()
-    {
-        Debug.Log("Player's Cards:");
-        foreach (string card in playerCards)
-        {
-            Debug.Log(card);
-        }
-    }
+
 }
